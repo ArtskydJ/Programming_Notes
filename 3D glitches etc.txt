@@ -1,0 +1,3 @@
+*bullet needs pitch
+*Vehicles drawn
+*3D Explosions create and draw

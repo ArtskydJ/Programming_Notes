@@ -1,0 +1,9 @@
+Begin step events
+Alarm events
+Keyboard, Key press, and Key release events
+Mouse events
+Normal step events
+(now all instances are set to their new positions)
+Collision events
+End step events
+Draw events
